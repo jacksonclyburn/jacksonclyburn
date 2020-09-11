@@ -1,6 +1,6 @@
 
 
-My First post!
+Who am I?
 ---
 
 Hello, my name is Jackson Clyburn and I am currently a student at [Christopher Newport Univeristy](https://cnu.edu), in Newport News Va. I am a sophomore working on my sociology degree as well as a minor in writing. From there I plan to get my masters degree to become a forensic investigator. 
