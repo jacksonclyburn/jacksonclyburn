@@ -3,7 +3,7 @@ layout: post
 title: First post
 ---
 
-This is my **	Hello, my name is Jackson Clyburn and I am currently a student at {https://cnu.edu} (Christopher Newport University) (Link), in Newport News Va. I am a sophomore working on my sociology degree. From there I plan to get my masters degree to become a forensic investigator. 
+This is my **	Hello, my name is Jackson Clyburn and I am currently a student at ((https://cnu.edu)) ([Christopher Newport University]) (Link), in Newport News Va. I am a sophomore working on my sociology degree. From there I plan to get my masters degree to become a forensic investigator. 
 
 Sociology has always interested me. From the way we think and or function in different scenarios to how we act in our society has always been exciting to learn. It’s also fun because it always applies to me and you (every human) because we’re all people in the same society.
 
