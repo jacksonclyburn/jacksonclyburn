@@ -3,7 +3,7 @@
 Who am I?
 ---
 
-[Profile Picture](https://jackson-clyburn.github.io/jackson-clyburn/images/Profile.jpg)
+[Profile Picture](https://jackson-clyburn.github.io/jackson-clyburn/images/A41DBAAF-2BC4-47DD-AEE3-FF192CD3DEAF_1_201_a.jpeg)
 
 Hello, my name is Jackson Clyburn and I am currently a student at [Christopher Newport Univeristy](https://cnu.edu), in Newport News Va. I am a sophomore working on my sociology degree as well as a minor in writing. From there I plan to get my masters degree to become a forensic investigator. 
 
