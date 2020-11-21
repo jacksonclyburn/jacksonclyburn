@@ -1,1 +1,22 @@
+---
+layout: post
+title: Writng My First Grant Proposal 
+---
+
+** In my Digital Humanities class we have been assigned to create a Grant Proposal(link). We didn’t actually have to act on these studies. We just had to create the blueprint. For my Grant Proposal I chose to look at how some of social media’s biggest influencers impact their audience more than what people think.
+
+I chose this study because any social media platform can lead anyone to success. It’s the biggest business tool in the modern era. We all know businesses use social media to promote and brand their company. But I am going deeper than that. I’m studying social media influence from a  psychological standpoint. So I am looking at how these social media influencers persuade you to act, dress, talk, etc.
+
+I chose to study the instagram accounts of Dixie D’amelio, Addison Rae, Loren Gray, and Liza Koshy (links). Some of America's biggest influencers. I’ll be looking at their poses, fashion, and captions to help determine the hidden messages that impact the audience a lot.
+
+So far the research has been going well. There have been a few bumps in the road such as finding enough distinctive resources to use for my environmental scan (link). I do admit that the idea I’m pursuing now has changed since when I first introduced it. The biggest reason for my ideas shifting was definitely because I kept digging into research and finding new ideas and new pieces of information I could use to make my proposal even more unique. 
+
+When I first started to brainstorm I knew I wanted to do something with social media influence. Sociology is my major so we were talking about influence in sociology anyways. I basically just molded the two classes together and here we are!
+
+I do want to take this time to give credit to: (website) (link) During my research, I looked at their study and it actually helped me to add on to my original idea. At first I just wanted to study tik tok stars. Then Dr. Stover said they should be over 18 for precautious reasons. So then I did older people such as the Kardashians. After looking at Wang’s research about college students I decided to study people that are the same age as college students. Because like Wang said “college students are most likely to be influenced by social media. This is simply because the current college age group grew up with social media.”
+
+I also give credit to James Ducharme and his Time.com(link) internet study. Ducharme studied the fact that women are more likely to be influenced by social media modeling. That’s why all the people in my study are women. So thank you to James Ducharme for also making my grant proposal more realistic and unique!
+
+Overall, the Grant Proposal is going pretty good. It’s all a little challenging but that’s what happens when everything if foreign. I’ve never heard of anything I'm doing right now before. But I’m managing pretty well. Or at least I’d like to think so. I’m sure you all will love the final blueprint See you next time!**
+
 
